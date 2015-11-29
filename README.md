@@ -47,9 +47,9 @@ For each call to system call void linux_survey_TT(), list the corresponding phys
 List the total amount of main memory of your host. 
 
 
-Execute another new firefox browser on your host, while the above seven brwosers, including process 1, are still executed.
-The process executing the above new firefox program is called process 2 hereafter.
-List the virtual address intervals consisting of the user address space of process 2.
-List the corresponding physical address intervals used by the above virtual address intervals at the moment that you execute system call void linux_survey_TT().
-List the virtual address intervals of process 1 that overlaps the virtual address intervals of process 2.
-List the physical address intervals of process 1 that overlaps the physical address intervals of process 2. 
+Execute another new firefox browser on your host, while the above seven brwosers, including process 1, are still executed.  
+The process executing the above new firefox program is called process 2 hereafter.  
+List the virtual address intervals consisting of the user address space of process 2.  
+List the corresponding physical address intervals used by the above virtual address intervals at the moment that you execute system call void linux_survey_TT().  
+List the virtual address intervals of process 1 that overlaps the virtual address intervals of process 2.  
+List the physical address intervals of process 1 that overlaps the physical address intervals of process 2.   
