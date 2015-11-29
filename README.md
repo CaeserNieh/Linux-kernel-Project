@@ -42,9 +42,11 @@ Write a program test.c as follows to collect the information you need. Execute t
                 }                 
                
 
-List the virtual address intervals consisting of the user address space of process 1.
-For each call to system call void linux_survey_TT(), list the corresponding physical address intervals used by the above virtual address intervals at the moment that you execute system call void linux_survey_TT(). And based on the result, show the percentage of virtual addresses that have physical memory assigned to them.
-List the total amount of main memory of your host. 
+List the virtual address intervals consisting of the user address space of process 1.  
+
+For each call to system call void linux_survey_TT(), list the corresponding physical address intervals used by the above virtual address intervals at the moment that you execute system call void linux_survey_TT(). And based on the result, show the percentage of virtual addresses that have physical memory assigned to them.  
+
+List the total amount of main memory of your host.   
 
 
 Execute another new firefox browser on your host, while the above seven brwosers, including process 1, are still executed.  
