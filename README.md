@@ -1,8 +1,9 @@
 # Linux-kernel-Project
 This is Project1 for Linux Kernel
 
-這是Linux kernel 的 Project 1
-Description :
+這是Linux kernel 的 Project 1  
+Description :  
+  
 Add a new system call void linux_survey_TT(int, char *) to your Linux kernel so that you can call it in your program. The system call has the following properties.
 
     The system call has a parameter which specifies the PID of the process that you want to observe.
